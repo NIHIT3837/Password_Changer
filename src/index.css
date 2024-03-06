@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+button {
+    cursor: pointer; /* Cursor on hover*/
+}
+button:hover {
+    background-color:red;
+    color:black
+}
